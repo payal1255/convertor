@@ -1,0 +1,28 @@
+body{
+height: 100vh;
+background-color:rgb(158, 148, 251);
+
+}
+.a{
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 50px 50px;
+}
+#number{
+        height: 50px;
+}
+#convert{
+    height: 50px;
+}
+.b{
+height: 50px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+padding: 50px;
+color: white;
+font-size: larger ;
+box-sizing: border-box;
+border: 1px solid white;
+}
